@@ -4,4 +4,4 @@ $users = [
     'admin@example.com' => 'password123',
     'user@example.com' => 'secret456'
 ];
->
+?>
